@@ -22,3 +22,10 @@ Here are the links to the zoom recordings of the class:
     https://cofc.zoom.us/rec/share/TwTcMT8_5xR7y8GjAECRU5ItGz24a6_UrVvaAUtBLJep1BqYIWp__JCukxNfABTm.DkxTuIlQH3GkfoHz
 
     Access Passcode: W&5i+fjo
+
+- Date: Jan 25, 2021 05:21 PM Eastern Time (US and Canada)
+
+    Share recording with viewers:
+    https://cofc.zoom.us/rec/share/g7MC-OyvGcPZoqiI1NpWmlQi6d4bRFHYVGmYxEanM8O4RgGqzTHAHDnWAZ0iLlPI.Xhw9BSEhcaviR1-h 
+    
+    Passcode: +nZG6f0b 
