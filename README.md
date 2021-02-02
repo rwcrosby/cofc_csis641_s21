@@ -16,6 +16,13 @@ This directory contains files associated with the VM based development environme
 
 Here are the links to the zoom recordings of the class:
 
+- Date: Feb 1, 2021 05:21 PM Eastern Time (US and Canada)
+
+    Share recording with viewers:
+    https://cofc.zoom.us/rec/share/Iix498I0_61fbvuW0X9Red4fGsOCVYy3Ux-MJGKHZDDGOAS5X_jcQLmT7Xlr3j8.I4_EGydJW5o4G1zh
+    
+    Passcode: ^&EyTc3L 
+
 - Date: Jan 11, 2021 05:19 PM Eastern Time (US and Canada)
 
     Meeting Recording:
