@@ -1,0 +1,10 @@
+ControlPath ~/.ssh/master-%h-%p-%r
+
+Host zorro
+   HostName zorro.furbrain
+   ControlMaster auto
+   ControlPersist 30m
+
+Host HomeAssistant
+   HostName zorro.furbrain
+   User homeassistant
